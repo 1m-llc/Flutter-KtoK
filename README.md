@@ -1,7 +1,6 @@
 # Flutter-KtoK
 
-Flutter SDK<br />
-https://api.flutter.dev/index.html
+Flutter技術に関するWikiはこちら
+https://github.com/1m-llc/Flutter-KtoK/wiki
 
-マテリアルデザイン <br />
-https://material.io/
+
