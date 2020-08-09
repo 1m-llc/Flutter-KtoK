@@ -1,4 +1,4 @@
-# Flutter-KtoK Dart言語によるウェブ・スマホアプリの開発支援
+# Dart言語によるウェブ・スマホアプリの開発
 
 Flutter技術に関するWikiはこちら<br>
 https://github.com/1m-llc/Flutter-KtoK/wiki
