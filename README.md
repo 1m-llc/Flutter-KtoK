@@ -22,7 +22,6 @@ Flutter未経験者歓迎（育成可能）<br>
 
 ## KtoK（Kenon to Kilia）
 
-「kenon（keinon） なにもない ケノン」 to 「Kilia（1000） - キラ」<br>
 0から1を作り、1から10、10から100、100から1000を作るという意味<br>
 
 
