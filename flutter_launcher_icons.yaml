@@ -1,0 +1,7 @@
+# アプリアイコン
+# ios, android のアプリアイコンを作成するには以下のコマンドを実行する必要がある
+# > flutter pub run flutter_launcher_icons:main
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"

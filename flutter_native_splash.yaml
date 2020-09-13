@@ -1,0 +1,4 @@
+# flutter pub pub run flutter_native_splash:create
+flutter_native_splash:
+  image: assets/one-m.png
+  color: "51BEF0"
