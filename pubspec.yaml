@@ -14,7 +14,7 @@ dependencies:
 
   cupertino_icons: ^0.1.3
   provider: ^4.3.2 # 状態管理
-  fluro: ^1.6.3 # 画面遷移（DeepLink含む）
+  fluro: ^1.7.8 # 画面遷移（DeepLink含む）
   shared_preferences: ^0.5.8 # iOS:UserDefaults Android: SharedPreferences KVS(保存)
   flutter_launcher_icons: any
   flutter_native_splash: 0.1.9 # スプラッシュ画像
